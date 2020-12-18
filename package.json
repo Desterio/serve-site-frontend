@@ -2,14 +2,38 @@
   "name": "serve-site-frontend",
   "version": "0.1.0",
   "private": true,
+  "babelMacros": {
+    "twin": {
+      "config": "tailwind.config.js",
+      "preset": "styled-components",
+      "dataTwProp": true,
+      "debugPlugins": false,
+      "debug": false
+    }
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start"
   },
   "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "autoprefixer": "^10.1.0",
+    "babel-plugin-inline-react-svg": "^1.1.2",
+    "framer-motion": "^3.0.0",
     "next": "10.0.3",
+    "postcss": "^8.2.1",
     "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "react-dom": "17.0.1",
+    "react-modal": "^3.12.1",
+    "react-slick": "^0.27.13",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^5.2.1",
+    "tailwindcss": "^2.0.2",
+    "twin.macro": "^2.0.7",
+    "use-in-view": "^1.0.15"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^1.12.0"
   }
 }

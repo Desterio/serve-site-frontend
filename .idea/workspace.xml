@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="278596ee-82e8-4ad8-8d8e-ec2b1e48a6a8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env.development" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/AboutUsCardThreeColSimple.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/AboutUsCardTwoColWithButton.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/FiveColumnDark.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Hero.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Layout.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/LeadersList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Navbar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/TestimonialList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/TestimonialListTwoColumn.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/helpers/AnimationRevealPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/helpers/ReactModalAdapter.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/helpers/ResponsiveVideoEmbed.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/helpers/useAnimatedNavToggler.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/misc/Buttons.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/misc/Headings.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/misc/Layouts.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/misc/Links.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/misc/Typography.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/_app.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/_document.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/about-us.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/leadership/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/background-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/background-10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/background-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/background-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/background-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/background-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/background-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/background-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/background-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/background-9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bishop.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/email-illustration.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icons/arrow-left-2-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icons/arrow-left-3-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icons/arrow-right-2-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icons/arrow-right-3-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icons/arrow-right-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icons/customize-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icons/dot-pattern.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icons/facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icons/instagram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icons/menu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icons/minus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icons/plus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icons/quotes-l.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icons/quotes-r.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icons/shield-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icons/simple-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icons/star-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icons/support-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icons/svg-decorator-blob-3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icons/svg-decorator-blob-4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icons/svg-decorator-blob-5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icons/svg-decorator-blob-7.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icons/team-illustration-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icons/twitter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icons/x.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icons/youtube.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/sim-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tailwind.config-2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/_app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/Home.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lnLhRvxmwRSLuwf7tafYpkOavB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.15.2" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.14" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/components" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.TypeScript" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/components" />
+      <recent name="$PROJECT_DIR$/pages" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="278596ee-82e8-4ad8-8d8e-ec2b1e48a6a8" name="Default Changelist" comment="" />
+      <created>1608228027714</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608228027714</updated>
+      <workItem from="1608228029149" duration="4903000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
