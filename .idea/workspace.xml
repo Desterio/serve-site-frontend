@@ -2,80 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="278596ee-82e8-4ad8-8d8e-ec2b1e48a6a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.env.development" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/AboutUsCardThreeColSimple.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/AboutUsCardTwoColWithButton.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/FiveColumnDark.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Hero.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Layout.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/LeadersList.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Navbar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/TestimonialList.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/TestimonialListTwoColumn.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/helpers/AnimationRevealPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/helpers/ReactModalAdapter.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/helpers/ResponsiveVideoEmbed.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/helpers/useAnimatedNavToggler.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/misc/Buttons.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/misc/Headings.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/misc/Layouts.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/misc/Links.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/misc/Typography.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/_app.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/_document.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/about-us.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/leadership/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/background-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/background-10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/background-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/background-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/background-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/background-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/background-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/background-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/background-8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/background-9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/bishop.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/email-illustration.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/icons/arrow-left-2-icon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/icons/arrow-left-3-icon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/icons/arrow-right-2-icon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/icons/arrow-right-3-icon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/icons/arrow-right-icon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/icons/customize-icon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/icons/dot-pattern.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/icons/facebook.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/icons/instagram.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/icons/menu.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/icons/minus.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/icons/plus.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/icons/quotes-l.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/icons/quotes-r.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/icons/shield-icon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/icons/simple-icon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/icons/star-icon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/icons/support-icon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/icons/svg-decorator-blob-3.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/icons/svg-decorator-blob-4.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/icons/svg-decorator-blob-5.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/icons/svg-decorator-blob-7.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/icons/team-illustration-2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/icons/twitter.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/icons/x.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/icons/youtube.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/sim-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tailwind.config-2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/_app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/Home.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ContactUsForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/EventsList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/FaqsList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/GroupList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/connect.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/contact-us.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/events.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/ministries.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/plan-a-visit.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/sermons.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608228027714</updated>
-      <workItem from="1608228029149" duration="4903000" />
+      <workItem from="1608228029149" duration="5521000" />
     </task>
     <servers />
   </component>
